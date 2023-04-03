@@ -15,6 +15,6 @@
 5. If needed only for builds scheme, configure the dynamic metadata; don't configure releases scheme as it breaks.
     > For Project metadata; depends on organization (also attached the image for reference)
     >> /${organization}/_apis/projects?api-version=7.0
-    >> $.value.*.['name']
+    >> $.value.*.['name']  
     >> $.value.*.['name']
 
