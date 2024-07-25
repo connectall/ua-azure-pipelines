@@ -1,4 +1,4 @@
-# azure-pipelines-merged-universal-adapter
+# ua-azure-pipelines
  Adapter can poll all the Builds and Releases related information in a Pipeline.  
 
 ## About
